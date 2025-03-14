@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+th {
+	border:1px solid #ccc;
+	border-radius:5px;
+	padding:0.5rem;
+}
+td {
+	border:1px solid #ccc;
+	border-radius:5px;
+	padding:0.5rem;
+}
